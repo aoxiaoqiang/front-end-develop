@@ -1,0 +1,20 @@
+{
+  "name": "handlebars_study",
+  "description": "handlebars study",
+  "main": "index.js",
+  "authors": [
+    "aoxiaoqiang"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/aoxiaoqiang/front-end-develop",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "handlebars": "^4.0.5"
+  }
+}

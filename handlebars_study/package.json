@@ -1,0 +1,14 @@
+{
+  "name": "handlebars_study",
+  "version": "1.0.0",
+  "description": "handlebars study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aoxiaoqiang",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.7.9"
+  }
+}
